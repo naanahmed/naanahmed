@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @naanahmed
-- 👀 I’m interested in Back-End development,Front-End Development,Automation,penetration testing and Web Development
-- 🌱 I’m currently learning Computer Science as my major.
-- 💞️ I’m looking to collaborate on database projects,automation projects and penetration testing
+- 👋 Hi, I’m Naan Ahmed
+- 👀 I’m interested in Full-stack development and data analysis.
+- 🌱 I’m currently learning Computer Science.
+- 💞️ I’m looking to collaborate on  full-stack development,automation projects, and penetration testing.
 - 📫 How to reach me : naanahmed.na@gmail.com and @nbjrr on Telegram.
 
 <!---
