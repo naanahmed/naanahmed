@@ -10,3 +10,7 @@ naanahmed/naanahmed is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 [![Naan's GitHub stats](https://github-readme-stats.vercel.app/api?username=naanahmed)](https://github.com/anuraghazra/github-readme-stats)
+![Naan's GitHub stats](https://github-readme-stats.vercel.app/api?username=naanahmed&count_private=true)
+![Naan's GitHub stats](https://github-readme-stats.vercel.app/api?username=naanahmed&show_icons=true&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naanahmed)](https://github.com/anuraghazra/github-readme-stats)
+[![Naan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=naanahmed)](https://github.com/anuraghazra/github-readme-stats)
