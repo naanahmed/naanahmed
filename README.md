@@ -17,4 +17,4 @@ You can click the Preview link to take a look at your changes.
 [![Naan's github activity graph](https://activity-graph.herokuapp.com/graph?username=naanahmed&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-[![https://github-contribution-graph.ez4o.com/?username=naanahmed&last_n_days=200&img_url=[(https://www.freepik.com/free-photo/side-view-hand-holding-spoon_32073590.htm#query=coffee&position=38&from_view=keyword)]
+https://github-contribution-graph.ez4o.com/?username=naanahmed&last_n_days=200&img_url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fcup-of-coffee-with-coffee-beans-gm521697444-91444003%3Futm_source%3Dunsplash%26utm_medium%3Daffiliate%26utm_campaign%3Dsrp_photos_bottom%26utm_content%3Dhttps%253A%252F%252Funsplash.com%252Fs%252Fphotos%252Fcoffee%26utm_term%3Dcoffee%253A%253A%253A%0A
