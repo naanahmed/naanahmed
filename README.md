@@ -28,6 +28,18 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <!--START_SECTION:waka-->
+
+```text
+From: 11 September 2022 - To: 05 December 2022
+
+Total Time: 47 hrs 23 mins
+
+YAML                       11 hrs 41 mins  >>>>>>-------------------   24.67 %
+TypeScript                 10 hrs 3 mins   >>>>>--------------------   21.21 %
+JavaScript                 6 hrs 18 mins   >>>----------------------   13.31 %
+Other                      3 hrs 53 mins   >>-----------------------   08.19 %
+```
+
 <!--END_SECTION:waka-->
 
 ![Naan's GitHub stats](https://github-readme-stats.vercel.app/api?username=naanahmed&show_icons=true&theme=radical&count_private=true) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naanahmed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
