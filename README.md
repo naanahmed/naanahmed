@@ -34,13 +34,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 September 2022 - To: 10 December 2022
+From: 11 September 2022 - To: 11 December 2022
 
 Total Time: 53 hrs 1 min
 
 YAML                       11 hrs 41 mins  >>>>>>-------------------   22.05 %
 TypeScript                 10 hrs 3 mins   >>>>>--------------------   18.96 %
-JavaScript                 8 hrs 9 mins    >>>>---------------------   15.39 %
+JavaScript                 8 hrs 9 mins    >>>>---------------------   15.40 %
 Other                      3 hrs 53 mins   >>-----------------------   07.32 %
 ```
 
