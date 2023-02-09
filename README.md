@@ -34,16 +34,15 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 January 2023 - To: 06 February 2023
+From: 31 January 2023 - To: 07 February 2023
 
-Total Time: 10 hrs 21 mins
+Total Time: 9 hrs 54 mins
 
-JavaScript   5 hrs           >>>>>>>>>>>>-------------   48.31 %
-Python       2 hrs 35 mins   >>>>>>-------------------   25.00 %
-Text         1 hr 55 mins    >>>>>--------------------   18.64 %
-HTML         31 mins         >------------------------   05.10 %
-Markdown     12 mins         >------------------------   02.05 %
-CSV          5 mins          -------------------------   00.91 %
+JavaScript   5 hrs           >>>>>>>>>>>>>------------   50.51 %
+Text         2 hrs 46 mins   >>>>>>>------------------   28.00 %
+Python       1 hr 23 mins    >>>>---------------------   14.02 %
+HTML         31 mins         >------------------------   05.33 %
+Markdown     12 mins         >------------------------   02.14 %
 ```
 
 <!--END_SECTION:waka-->
