@@ -34,16 +34,16 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 September 2022 - To: 20 March 2023
+From: 11 September 2022 - To: 22 March 2023
 
-Total Time: 196 hrs 32 mins
+Total Time: 209 hrs 11 mins
 
-CSS                        73 hrs 22 mins  >>>>>>>>>----------------   37.33 %
-JavaScript                 43 hrs 34 mins  >>>>>>-------------------   22.17 %
-HTML                       25 hrs 10 mins  >>>----------------------   12.81 %
-YAML                       12 hrs 26 mins  >>-----------------------   06.33 %
-TypeScript                 10 hrs 3 mins   >------------------------   05.12 %
-Text                       7 hrs 16 mins   >------------------------   03.70 %
+CSS                        79 hrs 10 mins  >>>>>>>>>----------------   37.84 %
+JavaScript                 45 hrs 18 mins  >>>>>--------------------   21.66 %
+HTML                       30 hrs 18 mins  >>>>---------------------   14.49 %
+YAML                       12 hrs 26 mins  >------------------------   05.94 %
+TypeScript                 10 hrs 3 mins   >------------------------   04.81 %
+Text                       7 hrs 16 mins   >------------------------   03.48 %
 ```
 
 <!--END_SECTION:waka-->
